@@ -25,5 +25,6 @@ Step 1: chatbot creation with sample intents.
 Step 2: College club website development. 
 Step 3: Integration of chatbot with website and changing the intents according to our website requirements.
 
-![img.png](img.png)
+![image](https://github.com/Vedarutvija/chatbot-web/assets/52282654/2152a47c-8708-4d78-8923-8ae0e611e503)
+
 
