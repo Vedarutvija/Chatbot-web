@@ -1,8 +1,12 @@
 **WEBSITE & CHATBOT DEVELOPMENT**
 
-Deployment of the chatbot: The chatbot uses 3 different kinds of data resources to give out responses, 1. CSV file, 3. JSON file, 3. Open AI API. The bot uses the GPT LLM to provide when the answers does not match from other 2 resources.
+Deployment of the chatbot: The chatbot uses 3 different kinds of data resources to give out responses, 
+1. CSV file,
+2. JSON file,
+3. Open AI API.
+The bot uses the GPT LLM to provide when the answers do not match from other 2 resources.
 
-This type of Chatbot will be used when the startups handle different domain's data in parallel
+Use case: This type of Chatbot will be used when the startups handle different domains' data in parallel
 
 Install dependencies
 ```
