@@ -27,9 +27,9 @@ the following command to test it in the console.
 ```
 $ (venv) python chat.py
 ```
-
-Step 1: chatbot creation with sample intents.
-Step 2: College club website development. 
+As a technical President of the Asana Club at my college, I have developed a Website according to my needs using HTML and CSS.
+Step 1: chatbot creation with sample intents and CSV file.
+Step 2: Website development according to your needs. 
 Step 3: Integration of chatbot with website and changing the intents according to our website requirements.
 
 ![image](https://github.com/Vedarutvija/chatbot-web/assets/52282654/2152a47c-8708-4d78-8923-8ae0e611e503)
