@@ -8,7 +8,7 @@ import re
 import spacy
 import wikipediaapi
 import openai
-openai.api_key = "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"
+openai.api_key = "--INSERT YOUR OWN KEY--"
 # Load the dataset
 df = pd.read_csv('Position_Salaries.csv')
 # Preprocess the data
