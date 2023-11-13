@@ -39,7 +39,9 @@ Step 3: Integration of chatbot with website and changing the intents according t
 
 
 
+The chatbot is tested using information from 3 different data sources. And it works fine. 
 
+You can fine tune the model according to you needs
 
 
 
