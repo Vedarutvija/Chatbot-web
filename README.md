@@ -35,3 +35,9 @@ Step 3: Integration of chatbot with website and changing the intents according t
 ![image](https://github.com/Vedarutvija/chatbot-web/assets/52282654/2152a47c-8708-4d78-8923-8ae0e611e503)
 
 
+
+
+![image](https://github.com/Vedarutvija/chatbot-web/assets/52282654/949abddd-75f1-4197-bd4c-13b443966e8c)
+
+
+
